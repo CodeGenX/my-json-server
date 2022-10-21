@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "myselectoptions": [
+    { "id": 1, "text": "Drop Down 1", "author": "typicode" },
+    { "id": 2, "text": "Drop Down 2", "author": "typicode2" },
+    { "id": 3, "text": "Drop Down 3", "author": "typicode3" },
+    { "id": 4, "text": "Drop Down 4", "author": "typicode4" }
+  ]
 }
